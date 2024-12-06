@@ -1,6 +1,7 @@
 # My Portfolio
 
 Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences as a web designer and front-end developer. It's a collection of the work I'm proud of, featuring various UI/UX designs, landing pages, and web applications.
+[Check it out here!](https://edgiegarcia.netlify.app/)
 
 ---
 
