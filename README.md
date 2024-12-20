@@ -51,6 +51,6 @@ A redesigned user interface for the MongoDB website, created with Figma.
 
 ---
 
-## 🎨 UI Designs
+## 🎨 UI Design
 
 Explore my UI design work on Figma: [Portfolio on Figma](https://www.figma.com/design/rk0TlJOJIjtIv7XfR9rtq5/Portfolio?node-id=0-1&t=5y89XsDfp0BaEDZF-1)
